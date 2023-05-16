@@ -73,6 +73,7 @@ erDiagram
 ## 5. Software
 ## 6. Roadmap
 > Current Iteration
-https://github.com/orgs/JoHoodSu/projects/1/views/2
+https://github.com/orgs/JoHoodSu/projects/1/views/2  
+
 > Planning
 https://github.com/orgs/JoHoodSu/projects/1/views/4
